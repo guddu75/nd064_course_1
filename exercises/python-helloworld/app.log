@@ -1,0 +1,13 @@
+2021-06-18 10:26:43,196:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:26:44,379:WARNING: * Debugger is active!
+2021-06-18 10:26:44,387:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:26:44,459:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:26:44,460:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
+2021-06-18 10:26:53,017:INFO:main enddpoint was reached
+2021-06-18 10:26:53,018:INFO:192.168.101.5 - - [18/Jun/2021 10:26:53] "GET / HTTP/1.1" 200 -
+2021-06-18 10:26:59,659:INFO:healthcheck endpoint was reached
+2021-06-18 10:26:59,660:INFO:192.168.101.5 - - [18/Jun/2021 10:26:59] "GET /status HTTP/1.1" 200 -
+2021-06-18 10:27:03,228:INFO:metrics endpoint was reached
+2021-06-18 10:27:03,229:INFO:192.168.101.5 - - [18/Jun/2021 10:27:03] "GET /metrics HTTP/1.1" 200 -
+2021-06-18 10:27:08,326:INFO:192.168.101.5 - - [18/Jun/2021 10:27:08] "[33mGET /lol HTTP/1.1[0m" 404 -
