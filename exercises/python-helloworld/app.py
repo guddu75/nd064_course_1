@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    logging.info("main enddpoint was reached")
+    logging.debug("main enddpoint was reached")
     return "Hello World!"
 
 @app.route("/status")
@@ -18,7 +18,7 @@ def healthcheck():
             status=200,
             mimetype='application/json'
     )
-    logging.info(f'healthcheck endpoint was reached')
+    logging.debug(f'healthcheck endpoint was reached')
     return response
 
 @app.route("/metrics")
@@ -28,7 +28,7 @@ def metrics():
             status=200,
             mimetype='application/json'
     )
-    logging.info(f'metrics endpoint was reached')
+    logging.debug(f'metrics endpoint was reached')
 
     return response
 

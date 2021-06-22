@@ -11,3 +11,118 @@
 2021-06-18 10:27:03,228:INFO:metrics endpoint was reached
 2021-06-18 10:27:03,229:INFO:192.168.101.5 - - [18/Jun/2021 10:27:03] "GET /metrics HTTP/1.1" 200 -
 2021-06-18 10:27:08,326:INFO:192.168.101.5 - - [18/Jun/2021 10:27:08] "[33mGET /lol HTTP/1.1[0m" 404 -
+2021-06-18 10:44:17,921:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\site-packages\\flask\\__init__.py', reloading
+2021-06-18 10:44:17,989:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\site-packages\\flask\\app.py', reloading
+2021-06-18 10:44:18,033:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\site-packages\\flask\\templating.py', reloading
+2021-06-18 10:44:18,079:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2021-06-18 10:44:19,236:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:44:22,574:WARNING: * Debugger is active!
+2021-06-18 10:44:22,585:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:44:22,673:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:44:22,673:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
+2021-06-18 10:45:46,806:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\logging\\__init__.py', reloading
+2021-06-18 10:45:48,149:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:45:51,806:WARNING: * Debugger is active!
+2021-06-18 10:45:51,814:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:45:51,887:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:45:51,888:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
+2021-06-18 10:45:57,053:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\logging\\config.py', reloading
+2021-06-18 10:45:57,064:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\logging\\handlers.py', reloading
+2021-06-18 10:45:57,203:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\abc.py', reloading
+2021-06-18 10:45:57,235:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\aifc.py', reloading
+2021-06-18 10:45:57,250:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\antigravity.py', reloading
+2021-06-18 10:45:57,266:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\argparse.py', reloading
+2021-06-18 10:45:57,283:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\ast.py', reloading
+2021-06-18 10:45:57,301:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\asynchat.py', reloading
+2021-06-18 10:45:57,319:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\asyncore.py', reloading
+2021-06-18 10:45:57,368:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\base64.py', reloading
+2021-06-18 10:45:57,412:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\bdb.py', reloading
+2021-06-18 10:45:57,426:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\binhex.py', reloading
+2021-06-18 10:45:57,486:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\bisect.py', reloading
+2021-06-18 10:45:57,517:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\bz2.py', reloading
+2021-06-18 10:45:57,533:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\calendar.py', reloading
+2021-06-18 10:45:57,548:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\cgi.py', reloading
+2021-06-18 10:45:57,564:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\cgitb.py', reloading
+2021-06-18 10:45:57,748:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\chunk.py', reloading
+2021-06-18 10:45:57,925:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\cmd.py', reloading
+2021-06-18 10:45:58,989:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:46:00,317:WARNING: * Debugger is active!
+2021-06-18 10:46:00,328:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:46:00,416:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pickle.py', reloading
+2021-06-18 10:46:00,443:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pickletools.py', reloading
+2021-06-18 10:46:00,452:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:46:00,452:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
+2021-06-18 10:46:00,485:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pipes.py', reloading
+2021-06-18 10:46:00,503:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pkgutil.py', reloading
+2021-06-18 10:46:00,607:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\platform.py', reloading
+2021-06-18 10:46:00,811:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\plistlib.py', reloading
+2021-06-18 10:46:00,858:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\poplib.py', reloading
+2021-06-18 10:46:00,911:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\posixpath.py', reloading
+2021-06-18 10:46:00,918:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pprint.py', reloading
+2021-06-18 10:46:00,926:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\profile.py', reloading
+2021-06-18 10:46:00,961:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pstats.py', reloading
+2021-06-18 10:46:00,984:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pty.py', reloading
+2021-06-18 10:46:01,009:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pyclbr.py', reloading
+2021-06-18 10:46:01,018:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\pydoc.py', reloading
+2021-06-18 10:46:01,198:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\py_compile.py', reloading
+2021-06-18 10:46:01,212:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\queue.py', reloading
+2021-06-18 10:46:01,225:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\quopri.py', reloading
+2021-06-18 10:46:01,227:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\random.py', reloading
+2021-06-18 10:46:01,245:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\re.py', reloading
+2021-06-18 10:46:01,260:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\reprlib.py', reloading
+2021-06-18 10:46:01,271:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\rlcompleter.py', reloading
+2021-06-18 10:46:01,288:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\runpy.py', reloading
+2021-06-18 10:46:01,325:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\sched.py', reloading
+2021-06-18 10:46:01,382:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\secrets.py', reloading
+2021-06-18 10:46:01,390:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\selectors.py', reloading
+2021-06-18 10:46:01,404:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\shelve.py', reloading
+2021-06-18 10:46:01,431:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\shlex.py', reloading
+2021-06-18 10:46:01,444:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\shutil.py', reloading
+2021-06-18 10:46:02,506:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:46:03,791:WARNING: * Debugger is active!
+2021-06-18 10:46:03,801:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:46:03,875:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\bdist_msi.py', reloading
+2021-06-18 10:46:03,885:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\bdist_rpm.py', reloading
+2021-06-18 10:46:03,887:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:46:03,888:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
+2021-06-18 10:46:03,899:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\bdist_wininst.py', reloading
+2021-06-18 10:46:03,907:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\build.py', reloading
+2021-06-18 10:46:03,918:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\build_clib.py', reloading
+2021-06-18 10:46:03,924:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\build_ext.py', reloading
+2021-06-18 10:46:03,927:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\build_py.py', reloading
+2021-06-18 10:46:03,929:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\build_scripts.py', reloading
+2021-06-18 10:46:03,942:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\check.py', reloading
+2021-06-18 10:46:03,943:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\clean.py', reloading
+2021-06-18 10:46:03,944:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\config.py', reloading
+2021-06-18 10:46:03,951:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\install.py', reloading
+2021-06-18 10:46:03,954:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\install_data.py', reloading
+2021-06-18 10:46:03,956:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\install_egg_info.py', reloading
+2021-06-18 10:46:03,958:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\install_headers.py', reloading
+2021-06-18 10:46:03,959:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\install_lib.py', reloading
+2021-06-18 10:46:03,961:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\install_scripts.py', reloading
+2021-06-18 10:46:03,963:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\register.py', reloading
+2021-06-18 10:46:03,972:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\sdist.py', reloading
+2021-06-18 10:46:03,975:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\upload.py', reloading
+2021-06-18 10:46:03,978:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\command\\__init__.py', reloading
+2021-06-18 10:46:04,017:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\tests\\support.py', reloading
+2021-06-18 10:46:04,018:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\tests\\test_archive_util.py', reloading
+2021-06-18 10:46:04,083:INFO: * Detected change in 'C:\\Users\\Debopriya\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\distutils\\tests\\__init__.py', reloading
+2021-06-18 10:46:05,143:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:46:06,744:WARNING: * Debugger is active!
+2021-06-18 10:46:06,752:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:46:06,853:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:46:06,853:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
+2021-06-18 10:46:14,147:INFO: * Detected change in 'G:\\nanodegree\\nd064_course_1\\exercises\\python-helloworld\\app.py', reloading
+2021-06-18 10:46:14,147:INFO: * Detected change in 'G:\\nanodegree\\nd064_course_1\\exercises\\python-helloworld\\app.py', reloading
+2021-06-18 10:46:14,148:INFO: * Detected change in 'G:\\nanodegree\\nd064_course_1\\exercises\\python-helloworld\\app.py', reloading
+2021-06-18 10:46:15,227:INFO: * Restarting with watchdog (windowsapi)
+2021-06-18 10:46:17,697:WARNING: * Debugger is active!
+2021-06-18 10:46:17,709:INFO: * Debugger PIN: 105-552-962
+2021-06-18 10:46:18,299:WARNING: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-18 10:46:18,300:INFO: * Running on http://192.168.101.5:5000/ (Press CTRL+C to quit)
